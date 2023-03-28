@@ -4,7 +4,7 @@ Digite o comando:
 ```
 dotnet new mvc 
 ```
-TELA COM O MATERIAL DESIGN TEMA BLOG INSTALADO:
+TELA COM O MATERIAL DESIGN TEMA SIDEPANEL INSTALADO:
 ![fgf](./wwwroot/Img/Desenv/Img_1.png)
 
 Seguindo as instruções do fabricante, vamos modificar o arquivo /Shared/_Layout.cshtml com o seguinte código:
